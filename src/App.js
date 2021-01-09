@@ -1,11 +1,16 @@
 import React from "react";
-import "./styles.css";
+import "./App.css";
 
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <h1>Let's build Tinder Clone</h1>
+      {/* Header */}
+      {/* Tinder Cards */}
+      {/* Buttons below tinder cards */}
+
+      {/* Chats Screen */}
+      {/* Individual chat screen */}
     </div>
   );
 }
