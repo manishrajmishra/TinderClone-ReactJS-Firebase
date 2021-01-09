@@ -1,2 +1,2 @@
-# TinderClone-ReactJS-Firebase
+# Quiz-React
 Created with CodeSandbox
